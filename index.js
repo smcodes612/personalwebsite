@@ -6,7 +6,7 @@
 favouriteMovieGenre("romantic")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("blueberry")
+favouriteFruit("watermelon")
 
 // light, dark
 favouriteMode("dark")
